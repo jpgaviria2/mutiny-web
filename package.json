@@ -64,7 +64,7 @@
         "comlink": "^4.4.1",
         "i18next": "^23.10.1",
         "i18next-browser-languagedetector": "^7.2.0",
-        "i18next-http-backend": "^2.5.0",
+        "i18next-http-backend": "^4.0.2",
         "lucide-solid": "^0.363.0",
         "qr-scanner": "^1.4.2",
         "solid-js": "^1.8.16",
